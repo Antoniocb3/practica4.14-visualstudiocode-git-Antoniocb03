@@ -9,10 +9,15 @@ Debes documentar lo siguiente:
 Git add se realizara de la siguiente forma:
 ![?](imagenes/imagen1.PNG)
 ![?](imagenes/imagen1a.PNG)
+
 Con esta opción añadimos los cambios.
 
 2. git commit cerrando un issue
-No entiendo muy bien lo cerrando un issue, 
+En mi caso lo he realizado en la terminal del VSCode, ya que de otra forma no me terminaba de salir bien.
+Primero: creamos el issue
+![?](imagenes/imagen2.PNG)
+
+
 3. git push
 4. git checkout -b documentacion
 5. git merge 
