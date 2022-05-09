@@ -4,7 +4,7 @@ Siguiendo con el tema de la documentación, utiliza el entorno de Visual Studio 
 
 Debes documentar lo siguiente:
 
-1. git add
+**1. git add**
 
 Git add se realizara de la siguiente forma:
 ![?](imagenes/imagen1.PNG)
@@ -12,8 +12,7 @@ Git add se realizara de la siguiente forma:
 
 Con esta opción añadimos los cambios.
 
-2. git commit cerrando un issue
-
+**2. git commit cerrando un issue**
 
 Primero: creamos el issue
 ![?](imagenes/imagen2.PNG)
@@ -28,7 +27,7 @@ Y como podemos comprobar, el issue se ha cerrado
 ![?](imagenes/imagen2c.PNG)
 
 
-3. git push
+**3. git push**
 
 Para realizar el git push, la opcion mas rápida es pinchar abajo a la izquierda a las dos flechas en forma de círculo.
 ![?](imagenes/imagen3.PNG)
@@ -38,20 +37,30 @@ Nos saldrá el siugiente mensaje, le damos a aceptar.
 
 
 
-4. git checkout -b documentacion
+**4. git checkout -b documentacion**
+Esto quiere decir crear una rama y movernos directamente a ella, yo en vez de documentacion le he dado a la nueva rama el nombre de "testbranch"
+
+La forma que yo considero mejor es la siguiente:
+
+Abajo a la izquierda sale en que rama estamos actualmente, clickamos sobre ella (que en mi caso es main) y nos aparecerá un menú en el que está la opción de "Crear rama". Le damos a crear y ponemos el nombre que queramos
+![?](imagenes/imagen4.PNG)
+
+
+Una vez creada la rama, se nos cambiará directamente (a la nueva rama la cual acabamos de crear)
+La nube de la izquierda es para publicar dicha rama
+![?](imagenes/imagen4a.PNG)
+
+
+**5. git merge** 
 
 
 
-5. git merge 
+**6. git diff**
 
 
 
-6. git diff
+**7. git push**
 
 
 
-7. git push
-
-
-
-8. Colores del margen del editor: rojo, verde, azul
+**8. Colores del margen del editor: rojo, verde azul**
