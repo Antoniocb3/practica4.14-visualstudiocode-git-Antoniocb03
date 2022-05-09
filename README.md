@@ -60,9 +60,14 @@ La ruta es Ver>Paleta de comandos...> Git merge. (el acceso rápido para accerde
 Elegimos que rama queremos fusionar:
 ![?](imagenes/imagen5a.PNG)
 
-PRUEBA
-prueba
+
 **6. git diff**
+Git diff es el comando que usamos para visualizar las diferencias.
+En VSCode, lo podemos hacer de la siguiente manera:
+
+Simplemente hacemos click izquierdo sobre el archivo en el que hemor realizado algún cambio, y nos aparece en verde el cambio actual (el que se va a quedar) y en rojo el cambio antiguo (el que se va a cambiar por el nuevo).
+Tambien podemos distingirlo porque en el que se va a eliminar aparece un "**-**" a la izquierda, y el que se va a añadir aparece un "**+**"
+![?](imagenes/imagen6.PNG)
 
 
 
