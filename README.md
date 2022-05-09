@@ -35,7 +35,7 @@ Para realizar el git push, la opcion mas rápida es pinchar abajo a la izquierda
 Nos saldrá el siugiente mensaje, le damos a aceptar.
 ![?](imagenes/imagen3a.PNG)
 
-
+Y ya estarían sincronizados los cambios.
 
 **4. git checkout -b documentacion**
 Esto quiere decir crear una rama y movernos directamente a ella, yo en vez de documentacion le he dado a la nueva rama el nombre de "testbranch"
@@ -70,9 +70,17 @@ Tambien podemos distingirlo porque en el que se va a eliminar aparece un "**-**"
 ![?](imagenes/imagen6.PNG)
 
 
-
 **7. git push**
-
+Supongo que es  volver a hacer un push para comprobar que tal va todo. Ya he explicado antes en el ejercicio 3 el git push.
 
 
 **8. Colores del margen del editor: rojo, verde azul**
+
+Como ya he explicado en el ejercicio 6, el color rojo es lo que vas a eliminar, no necesariamente tiene que ser sobreescrito con algo (texto,imagenes...) simplemente puede ser eliminado y dejado en blanco.
+
+El color verde, es simplemente lo que vas a añadir.
+Si sobreescribimos texto por ejemplo, nos saldran los dos colores, ya que estamos eliminando un texto y escribiendo otro, pero si simplemente añadimos texto nos aparecera solo el color verde, y si eliminamos texto solo el color rojo
+![?](imagenes/imagen8a.PNG)
+
+![?](imagenes/imagen8.PNG)
+
