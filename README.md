@@ -60,7 +60,8 @@ La ruta es Ver>Paleta de comandos...> Git merge. (el acceso rápido para accerde
 Elegimos que rama queremos fusionar:
 ![?](imagenes/imagen5a.PNG)
 
-pruebamerge
+PRUEBA
+prueba
 **6. git diff**
 
 
