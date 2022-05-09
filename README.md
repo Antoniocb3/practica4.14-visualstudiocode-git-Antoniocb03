@@ -61,6 +61,7 @@ Elegimos que rama queremos fusionar:
 ![?](imagenes/imagen5a.PNG)
 
 PRUEBA
+prueba
 **6. git diff**
 
 
