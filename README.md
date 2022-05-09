@@ -52,7 +52,13 @@ La nube de la izquierda es para publicar dicha rama
 
 
 **5. git merge** 
+En este caso lo he realizado por la paleta de comandos:
+La ruta es Ver>Paleta de comandos...> Git merge. (el acceso rápido para accerder a la paleta de comandos es Ctrl+Mayus+P)
 
+![?](imagenes/imagen5.PNG)
+
+Elegimos que rama queremos fusionar:
+![?](imagenes/imagen5a.PNG)
 
 
 **6. git diff**
