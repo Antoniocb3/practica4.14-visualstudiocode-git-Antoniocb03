@@ -80,7 +80,19 @@ Como ya he explicado en el ejercicio 6, el color rojo es lo que vas a eliminar, 
 
 El color verde, es simplemente lo que vas a añadir.
 Si sobreescribimos texto por ejemplo, nos saldran los dos colores, ya que estamos eliminando un texto y escribiendo otro, pero si simplemente añadimos texto nos aparecera solo el color verde, y si eliminamos texto solo el color rojo
+
+Sobreescribiendo:
 ![?](imagenes/imagen8a.PNG)
 
+Añadiendo texto
+![?](imagenes/imagen8b.PNG)
+
+Eliminando texto:
+![?](imagenes/imagen8c.PNG)
+
+El color azul sale cuando hay un conflicto en el merge, te da la opción de aceptar los cambios actuales, aceptar los cambios siguientes, o aceptar ambos. Una vez resuelto en conflicto, todo estará listo para realizar el merge
 ![?](imagenes/imagen8.PNG)
+
+
+PD: Para enterarme un poco mejor del merge en el VSCode, yo he realizado algunas pruebas mas con ramas "prueba2","prueba3" como ya podrás ver en el Insights > Network.
 
