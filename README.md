@@ -38,6 +38,7 @@ Nos saldrá el siugiente mensaje, le damos a aceptar.
 Y ya estarían sincronizados los cambios.
 
 **4. git checkout -b documentacion**
+
 Esto quiere decir crear una rama y movernos directamente a ella, yo en vez de documentacion le he dado a la nueva rama el nombre de "testbranch"
 
 La forma que yo considero mejor es la siguiente:
@@ -52,6 +53,7 @@ La nube de la izquierda es para publicar dicha rama
 
 
 **5. git merge** 
+
 En este caso lo he realizado por la paleta de comandos:
 La ruta es Ver>Paleta de comandos...> Git merge. (el acceso rápido para accerder a la paleta de comandos es Ctrl+Mayus+P)
 
@@ -62,6 +64,7 @@ Elegimos que rama queremos fusionar:
 
 
 **6. git diff**
+
 Git diff es el comando que usamos para visualizar las diferencias.
 En VSCode, lo podemos hacer de la siguiente manera:
 
@@ -71,6 +74,7 @@ Tambien podemos distingirlo porque en el que se va a eliminar aparece un "**-**"
 
 
 **7. git push**
+
 Supongo que es  volver a hacer un push para comprobar que tal va todo. Ya he explicado antes en el ejercicio 3 el git push.
 
 
